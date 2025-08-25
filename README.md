@@ -22,7 +22,7 @@ This is a deep learning-based traffic management project integrating traffic det
 
 ## Project Structure:
 
-### TrafficManagementSystem/ 
+#### AITrafficManagementSystem/ 
 
 ├── main.py                  # Main entry point  
 ├── config.py                # Configuration file  
