@@ -20,7 +20,14 @@ This is a deep learning-based traffic management project integrating traffic det
 
 ## Project Structure:
 
-TrafficManagementSystem/  
+### TrafficManagementSystem/ 
+
 ├── main.py                  # Main entry point  
 ├── config.py                # Configuration file  
 ├── database.py              # SQLite database integration  
+
+├── detectors/  
+│   ├── __init__.py          # Package initializer  
+│   ├── traffic_detector.py  # Traffic detection logic  
+│   └── helmet_detector.py   # Helmet detection logic  
+
