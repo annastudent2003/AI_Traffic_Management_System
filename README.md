@@ -55,3 +55,16 @@ This is a deep learning-based traffic management project integrating traffic det
 └── violations/              # Auto-created (for violation evidence images)  
 
 
+
+## Output
+https://github.com/user-attachments/assets/b3f7b883-b8d8-472d-b017-c0ae45e14fb7
+
+
+
+
+
+
+https://github.com/user-attachments/assets/b6b0c02c-e464-4802-93b6-4fbd8e5b62f8
+
+
+
