@@ -20,28 +20,7 @@ This is a deep learning-based traffic management project integrating traffic det
 
 ## Project Structure:
 
-TrafficManagementSystem/
-├── main.py                  # Main entry point
-├── config.py                # Configuration file
-├── database.py              # SQLite database integration
-├── detectors/
-│   ├── __init__.py          # Package initializer
-│   ├── traffic_detector.py  # Traffic detection logic
-│   └── helmet_detector.py   # Helmet detection logic
-├── logic/
-│   ├── __init__.py          # Package initializer
-│   ├── traffic_light.py     # Traffic light control logic
-│   └── violation_manager.py # Handles violations + DB integration
-├── utils/
-│   ├── __init__.py              # Package initializer
-│   ├── plate_recognizer.py      # Improved OCR for license plates
-│   ├── brand_recognizer.py      # Brand recognition (rule-based)
-│   ├── ml_brand_recognizer.py   # ML-based brand recognition
-│   └── perspective_transform.py # Camera perspective adjustment
-├── models/
-│   ├── yolov8l-traffic.pt   # Pretrained YOLOv8 large model
-│   └── yolov8s-helmet.pt    # Custom-trained helmet detection model
-├── data/                    # Auto-created (for database storage)
-└── violations/              # Auto-created (for violation evidence images)
-
-
+TrafficManagementSystem/  
+├── main.py                  # Main entry point  
+├── config.py                # Configuration file  
+├── database.py              # SQLite database integration  
