@@ -1,0 +1,18 @@
+AI Traffic Management System - Statistics
+==================================================
+Timestamp: 2025-08-25 03:52:40
+Total runtime: 8.3s
+Frames processed: 15
+Average FPS: 3.5
+Total vehicles detected: 15
+Total violations: 0
+
+Lane Statistics:
+  Lane 1: 15 vehicles
+  Lane 2: 0 vehicles
+
+Violation Statistics:
+  Total: 0
+  Pending review: 0
+  Approved: 0
+  Rejected: 0
