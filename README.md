@@ -21,9 +21,12 @@ This is a deep learning-based traffic management project integrating traffic det
 ## Project Structure:
 
 #### AITrafficManagementSystem/
-├── main.py                 # Entry point of the project
-├── config.py               # Configuration file
-├── database.py             # SQLite database integration
+├── main.py           
+
+├── config.py     
+
+├── database.py            
+
 ├── detectors/
 │   ├── __init__.py
 │   ├── traffic_detector.py # Vehicle detection module
